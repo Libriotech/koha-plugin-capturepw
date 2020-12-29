@@ -1,0 +1,15 @@
+=pod
+
+=head1 Capture password plugin
+
+This plugin is ONLY intended to be used to TEST this Koha bug/enh:
+
+L<https://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22706>.
+
+Do not use this plugin on a production system!
+
+=head1 AUTHOR
+
+Magnus Enger <magnus@libriotech.no>
+
+=cut
